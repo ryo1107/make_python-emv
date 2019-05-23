@@ -34,3 +34,8 @@ we can install python list
 
 input
 
+```
+pyenv install 3.6.3
+pyenv global 3.6.3
+pip install --upgrade pip
+```
